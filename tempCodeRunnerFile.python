@@ -20,3 +20,4 @@ def LUsolve(a,b):
     return b
 print(Ludecomp(A))
 print(LUsolve(A,B))
+
